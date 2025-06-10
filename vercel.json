@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://portfolio-bk-sfn6.onrender.com/$1" }
+  ]
+}
